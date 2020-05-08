@@ -1,0 +1,12 @@
+h1{
+	font-size: 90px;
+	color: coral;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+}
+
+p{
+	text-indent: 25px;
+	text-align: justify;
+}
