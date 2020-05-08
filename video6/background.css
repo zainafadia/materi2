@@ -1,0 +1,10 @@
+h1{
+	font-size: 70px;
+	text-align: center;
+}
+body {
+	background-color: white;
+	background-image: url(bg.webp);
+	background-repeat: no-repeat;
+	background-position: center;
+}
