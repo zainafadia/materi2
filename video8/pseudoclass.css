@@ -1,0 +1,23 @@
+.hello:link {
+	color: green;
+}
+.hello:hover {
+	color: orange;
+	font-family: arial;
+	font-size: 20px;
+}
+.hello:active {
+	font-style: italic;
+}
+
+li:nth-child(2n) a {
+	color: green;
+}
+
+li:nth-child(odd) a {
+	color: black;
+}
+
+p:first-of-type {
+	color: blue;
+}
